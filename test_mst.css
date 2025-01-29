@@ -436,7 +436,7 @@ body {
 }
 @media (max-width: 480px) {
     .site-header {
-        flex-direction: column; 
+        flex-direction: row; 
         align-items: flex-start; 
         height: auto; 
         padding: 10px 20px; 
@@ -468,10 +468,17 @@ body {
         flex-direction: column;
         align-items: center;
     }
-    .prop1, .prop2, .prop3 {
+    .prop1 p, .prop2 p, .prop3 p {
         max-width: 100%; 
         flex: 1 1 auto; 
         margin: 5px 0; 
+        font-size: 26px;
+    }
+    .prop1 span, .prop2 span, .prop3 span{
+        max-width: 100%; 
+        flex: 1 1 auto; 
+        margin: 5px 0; 
+        font-size: 16px;
     }
     button {
         width: 100%; 
