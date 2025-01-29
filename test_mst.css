@@ -376,9 +376,12 @@ body {
     .site-header h1 {
         margin-right: 20px; 
     }
+    .site-header p {
+        font-size: 10px;
+    }
     .text-container {
         margin-left: 20px; 
-        font-size: 10px; 
+        font-size: 12px; 
         align-items: left;
     }
     .page-list {
@@ -419,8 +422,11 @@ body {
     }
 
     .props p {
-        font-size: 18px; 
+        font-size: 12px; 
         margin: 10px 0; 
+    }
+    .props p span {
+        font-size: 14px;
     }
     .text {
         text-align: center; 
