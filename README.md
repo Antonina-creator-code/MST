@@ -14,8 +14,7 @@
 - Шапка (header), которая прилипает к верхней части страницы при скролле с затемнением фона.
 - Поскольку текст и количество полей формы могут изменяться, вёрстка предполагает гибкость в этом отношении.
 - Форма должна быть готова к работе; все поля представлены как `input[name='...']`.
-[Ссылка на макет]([https://docs.google.com/document/d/1eZLPVfYpD7f00x51FmEnY7JBsk2dJnXF/edit](https://www.figma.com/design/Bxaf0gbgU9jlZPJ9IJWP9r/test_mst?node-id=65-571&t=40bm5AFBvwiIsSli-0
-))
+[Ссылка на макет]([https://docs.google.com/document/d/1eZLPVfYpD7f00x51FmEnY7JBsk2dJnXF/edit](https://www.figma.com/design/Bxaf0gbgU9jlZPJ9IJWP9r/test_mst?node-id=65-571&t=40bm5AFBvwiIsSli-0))
 ## Часть 2
 
 Часть 2 задания включает в себя вёрстку блока, предоставленного в видео. Основные требования:
