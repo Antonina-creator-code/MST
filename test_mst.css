@@ -204,7 +204,7 @@ body {
     margin-left: 80px;
     display: flex;
     justify-content: row;
-    align-items: center;
+    align-items: left;
     color:#fff;
     flex-direction: row;
     transition: background-color 0.3s;
@@ -218,7 +218,7 @@ body {
     font-size: 14px;
 }
 .header-container h1, .header-container p{
-    align-items: center;
+    align-items: left;
     color: #ffffff; 
     justify-content: center;
     font-size: 14px;
