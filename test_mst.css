@@ -378,7 +378,8 @@ body {
     }
     .text-container {
         margin-left: 20px; 
-        font-size: 20px; 
+        font-size: 10px; 
+        align-items: left;
     }
     .page-list {
         height: auto; 
