@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    background-color: black;
+    color: white;
+    text-align: left;
+}
+
+.text {
+    padding: 20px;
+    font-size: 40px;
+    align-items: flex-start;
+}
+
+.text-video {
+    height: auto; 
+    margin: 0 10px; 
+    object-fit: cover; 
+}
+
+.text-video.large {
+    width: 150px; 
+}
+
+.text-video.small {
+    width: 50px; 
+}
