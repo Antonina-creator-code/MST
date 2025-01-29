@@ -6,6 +6,7 @@ body {
     transition: transform 2s ease; 
     flex-direction: column;
     margin: 0;
+    overflow-x: hidden;
 }
 .page-list {
     display: flex;
