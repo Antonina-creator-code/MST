@@ -448,7 +448,7 @@ body {
     .text-container {
         margin-left: 0; 
         margin-top: 100px; 
-        font-size: 18px; 
+        font-size: 10px; 
         text-align: left; 
     }
 
@@ -466,7 +466,7 @@ body {
     }
     .props {
         flex-direction: column;
-        align-items: center;
+        align-items: left;
     }
     .prop1 p, .prop2 p, .prop3 p {
         max-width: 100%; 
