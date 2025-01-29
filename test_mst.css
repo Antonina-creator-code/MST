@@ -413,7 +413,7 @@ body {
         display: flex;
         flex-direction: column; 
         color: #fff; 
-        text-align: center; 
+        text-align: left; 
         margin: 20px; 
     }
 
